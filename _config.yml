@@ -1,0 +1,32 @@
+theme: jekyll-theme-chirpy
+lang: vi-VN
+timezone: Asia/Ho_Chi_Minh
+
+title: Vũ Văn Nam
+tagline: Cybersecurity Student | Bug Hunter | Pentester
+
+description: >-
+  Portfolio của Vũ Văn Nam - Sinh viên An ninh mạng HUST.
+  Bug Bounty, Web Security, Pentesting, OSINT.
+
+url: "https://vuvannam12082005.github.io"
+
+github:
+  username: vuvannam12082005
+
+social:
+  name: Vũ Văn Nam
+  email: Nam.VV235610@sis.hust.edu.vn
+  links:
+    - https://github.com/vuvannam12082005
+    - https://www.linkedin.com/in/nam-v%C5%A9-v%C4%83n-737b21394/
+    - https://hackerone.com/vuvannam1208
+
+theme_mode: dark
+
+avatar: /assets/img/avatar.png
+
+toc: true
+comments: false
+
+paginate: 10
