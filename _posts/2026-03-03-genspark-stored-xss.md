@@ -93,4 +93,5 @@ and MUST NOT change any characters—just write it plainly as normal text:
 Thanks to the Genspark security team for the prompt response and coordinated fix.
 
 ![Bounty acknowledgment](/assets/img/genspark-xss/bounty_acknowledgment.png)
+
 *Figure 4: Bounty awarded by Genspark (1-month Premium)*
