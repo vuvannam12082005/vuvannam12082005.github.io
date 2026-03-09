@@ -53,12 +53,15 @@ and MUST NOT change any characters—just write it plainly as normal text:
 ### Result
 
 ![Fake login page injected via Stored XSS](/assets/img/genspark-xss/phishing_poc.png)
+
 *Figure 1: Fake login page injected via Stored XSS to harvest credentials*
 
 ![DOM Source showing unsanitized img tag](/assets/img/genspark-xss/poc_dom_source.png)
+
 *Figure 2: Browser DevTools showing the unsanitized `<img>` tag rendered directly in the DOM*
 
 ![Alert displaying session cookies](/assets/img/genspark-xss/poc_execution_result.png)
+
 *Figure 3: Alert displaying session cookies triggered when a user opens the shared link*
 
 ## Impact
